@@ -1,0 +1,9 @@
+app
+
+usuario: Juan Perez, Paula Marino, Lucia Pardo, Pedro Rueda
+
+sql
+
+usuario: root
+
+pass: 1234
